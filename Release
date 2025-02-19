@@ -1,0 +1,8 @@
+Origin: Matrayados's Repo
+Label: Just a Label
+Suite: stable
+Version: 1.0
+Codename: cydia-ios
+Architectures: iphoneos-arm
+Components: main
+Description: made this because i was bored
